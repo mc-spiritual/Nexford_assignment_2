@@ -30,7 +30,7 @@ salary-function-assignment/
 
 ├── Salary analysis.ipynb # Jupyter notebook with all Python code
 
-├── unzip_display.R # R script to unzip and display CSV file
+├── Unzip_employee_porfile.R # R script to unzip and display CSV file
 
 ├── Employee Profile.zip # Zipped employee CSV file (generated)
 
